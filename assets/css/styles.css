@@ -42,8 +42,28 @@ nav a:hover {
     color: white;
 }
 
-.d-img {
-    height: 900px;
+
+.banner {
+    position: relative;
+    widows: 100%;
+    height: calc(108vh - 50px);
+    background-image: url(../img/promocion-institucional.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.capa {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+.contenido{
+    
 }
 
 
