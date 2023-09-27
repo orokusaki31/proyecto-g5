@@ -87,3 +87,9 @@ nav a:hover{
     color: #333;
 }
 
+.small {
+    background-color: green-yellow;
+    flex-basis: 20rem;
+    flex-grow: 999;
+    min-width: 60%;
+}
