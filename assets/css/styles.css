@@ -5,7 +5,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0%;
-    background-color:#fff;
+    background-color: green;
 }
 
 .navbar {
@@ -87,26 +87,18 @@ nav a:hover{
     color: #333;
 }
 
-.small {
+p .small {
     background-color: green-yellow;
     flex-basis: 20rem;
     flex-grow: 999;
     min-width: 60%;
 }
 
-#becas .titulo{
-    width: 100%;
-    text-align: center;
+p .small:hover{
+    background-color: #fff;
 
 }
+.accordion-item {
+    background-color: greenyellow;
 
-#becas{
-    background: #fff;
-}
-
-.texto{
-    width: 100%;
-    margin: auto;
-    padding-left: 250px;
-    padding-right: 250px;
 }
