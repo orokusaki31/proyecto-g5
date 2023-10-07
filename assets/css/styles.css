@@ -13,6 +13,9 @@ body {
     background-color: greenyellow;
 }
 
+#titulo1 {
+    font-size: 100px;
+}
 
 .navbar-nav{
     margin-left: auto;
@@ -124,4 +127,50 @@ p .small:hover{
 span{
     margin: 0 auto;
     margin-left: 400px;
+}
+
+#financiacion{
+    background: #fff;
+}
+
+#financiacion .titulo{
+    width: 100%;
+    text-align: center;
+
+}
+
+#financiacion .texto{
+    width: 100%;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.titulo2{
+    font-size: 40px;
+    padding-left: 275px;
+    padding-right: 280px;
+    text-align: center;
+}
+
+.icon{
+    align-items: center;
+    margin-left: 250px;
+    margin-right: 220px;
+    width: 150%;
+    font-size: 50px;
+}
+
+#sobre{
+    margin-top: 50px;
+}
+
+#sobre .subtitulo{
+    text-align: center;
+    border-radius: 150%;
+    padding-bottom: 10px;
+    width: 100%;
+}
+
+.info{
+    padding-left: 250px;
+    padding-right: 250px;
 }
